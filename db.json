@@ -76,6 +76,10 @@
         {
           "id": 2,
           "name": "bacon"
+        },
+        {
+          "id": 5,
+          "name": "mozzarella"
         }
       ],
       "id": 1
@@ -131,6 +135,28 @@
         }
       ],
       "id": 3
+    },
+    {
+      "name": "Magic",
+      "toppings": [
+        {
+          "id": 10,
+          "name": "pepperoni"
+        },
+        {
+          "id": 2,
+          "name": "bacon"
+        },
+        {
+          "id": 6,
+          "name": "mushroom"
+        },
+        {
+          "id": 1,
+          "name": "anchovy"
+        }
+      ],
+      "id": 4
     }
   ]
 }
